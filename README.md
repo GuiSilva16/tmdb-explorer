@@ -442,4 +442,4 @@ Este projeto foi desenvolvido como trabalho académico e está disponível sob a
 
 ---
 
-**Desenvolvido com ❤️ em Português de Portugal**
+**Desenvolvido com ❤️ por Guilherme Silva, Tomás Gomes e Gustavo Marques**
